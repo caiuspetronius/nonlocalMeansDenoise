@@ -1,4 +1,4 @@
-function imnlmfilt3_test( dim )
+function nonlocalMeansDenoise_test( dim )
 % synthetic example by Jose Vicente Manjon-Herrera extended to a 3D image
 
 if dim == 2
